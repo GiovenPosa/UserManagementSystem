@@ -6,22 +6,6 @@ It will serve as the foundation for a larger AI-powered travel platform that pro
 
 ---
 
-## ⚒️ Getting Started
-
-*[Dont forget to install all dependencies for node.js and react]*
-
-```
-git clone https://github.com/giovenposa/usermanagementsystem.git
-cd UserManagementSystem
- - open terminal and start backend server -
-node server.js
- - open new terminal to start frontend server -
-cd user-auth-frontend
-npm start
-```
-
----
-
 ## 🚀 Project Overview
 
 This system handles core **user authentication features**, including:
@@ -47,6 +31,21 @@ This system handles core **user authentication features**, including:
 | **Auth**     | JWT + bcrypt      | Stateless, secure authentication |
 | **Middleware** | CORS             | Enables frontend–backend communication |
 | **Hosting**  | Localhost (Dev) → Cloud + Mobile Targets | Planned deployment to mobile and cloud environments |
+
+---
+## ⚒️ Getting Started
+
+*[Dont forget to install all dependencies for node.js and react]*
+
+```
+git clone https://github.com/giovenposa/usermanagementsystem.git
+cd UserManagementSystem
+ - open terminal and start backend server -
+node server.js
+ - open new terminal to start frontend server -
+cd user-auth-frontend
+npm start
+```
 
 ---
 
