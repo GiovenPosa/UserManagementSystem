@@ -8,6 +8,8 @@ It will serve as the foundation for a larger AI-powered travel platform that pro
 
 ## ⚒️ Getting Started
 
+*[Dont forget to install all dependencies for node.js and react]*
+
 ```
 git clone https://github.com/giovenposa/usermanagementsystem.git
 cd UserManagementSystem
